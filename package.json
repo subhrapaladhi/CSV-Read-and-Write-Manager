@@ -1,0 +1,24 @@
+{
+  "name": "atlan-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhrapaladhi/atlan-task.git"
+  },
+  "author": "subhrapaladhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhrapaladhi/atlan-task/issues"
+  },
+  "homepage": "https://github.com/subhrapaladhi/atlan-task#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "line-reader": "^0.4.0",
+    "mongoose": "^5.9.4"
+  }
+}
