@@ -3,7 +3,7 @@
 
 ## About
 
-This node application has four endpoints to enable the user to read data from a CSV file, insert to into Mongo DB database. pause the read and insertion process, resume the process and terminate the process and delete the inserted data.
+This node application has four endpoints to enable the user to read data from a CSV file, insert to into Mongo DB database, pause the read and insertion process, resume the process and terminate the process and delete the inserted data.
 
 ## Starting server
 
