@@ -1,5 +1,5 @@
 {
-  "name": "atlan-task",
+  "name": "CSV-Download-Manager",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/subhrapaladhi/atlan-task.git"
+    "url": "git+https://github.com/subhrapaladhi/CSV-Download-Manager.git"
   },
   "author": "subhrapaladhi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/subhrapaladhi/atlan-task/issues"
+    "url": "https://github.com/subhrapaladhi/CSV-Download-Manager/issues"
   },
-  "homepage": "https://github.com/subhrapaladhi/atlan-task#readme",
+  "homepage": "https://github.com/subhrapaladhi/CSV-Download-Manager#readme",
   "dependencies": {
     "express": "^4.17.1",
     "line-reader": "^0.4.0",
