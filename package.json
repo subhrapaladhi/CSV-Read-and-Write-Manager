@@ -1,5 +1,5 @@
 {
-  "name": "CSV-Download-Manager",
+  "name": "CSV-Read-and-Write-Manager",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/subhrapaladhi/CSV-Download-Manager.git"
+    "url": "git+https://github.com/subhrapaladhi/CSV-Read-and-Write-Manager.git"
   },
   "author": "subhrapaladhi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/subhrapaladhi/CSV-Download-Manager/issues"
+    "url": "https://github.com/subhrapaladhi/CSV-Read-and-Write-Manager/issues"
   },
   "homepage": "https://github.com/subhrapaladhi/CSV-Download-Manager#readme",
   "dependencies": {
